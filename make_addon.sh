@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #This file was created by https://github.com/douira
-#requires cmake, make, cd, zip, mv to be installed
+#requires cd, git, cmake, zip, mv to be installed
 #Works with https://github.com/rlguy/Blender-FLIP-Fluids
 cd "${0%/*}"
 git clone https://github.com/rlguy/Blender-FLIP-Fluids.git
