@@ -6,3 +6,4 @@ Run `sh make_addon.sh` in a compatible environment. It will download and process
 
 ## Requirements
 You need to have `git`, `make`, `cmake`, `zip` and other normal unix-like utilities installed. (Should work on macOS,  variations of Linux and others) 
+On macOS you can install `cmake` with brew: `brew install cmake`
