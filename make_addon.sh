@@ -2,6 +2,9 @@
 #This file was created by https://github.com/douira
 #requires echo, cd, git, cmake, make, zip, mv
 #Works with https://github.com/rlguy/Blender-FLIP-Fluids
+echo "Cleaing old build..."
+rm -r Blender-FLIP-Fluids
+rm flip_fluids_addon.zip
 echo "Downloading..."
 cd "${0%/*}"
 git clone https://github.com/rlguy/Blender-FLIP-Fluids.git
