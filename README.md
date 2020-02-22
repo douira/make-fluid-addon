@@ -13,7 +13,7 @@ On macOS you can install `cmake` with brew: `brew install cmake`
 
 ## Compatability
 
-Note that this has not been tested on other OSs than macOS High Sierra 10.13.6, but it'll might work just fine on similar Unix-like systems where the commands work the same way.
+Note that this has not been tested on other OSs than macOS High Sierra 10.13.6 to Catalina 10.15.3, but it'll might work just fine on similar Unix-like systems where the commands used work the same way.
 
 ## Add-on updates
 
